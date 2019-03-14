@@ -2,7 +2,7 @@
 layout:     post
 title:      项目启动
 author:     Nino
-tags: 		post template
+tags: 		项目相关
 subtitle:  	“挣闲钱”项目正式启动
 category:  Introduction
 ---

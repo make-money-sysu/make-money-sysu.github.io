@@ -2,7 +2,7 @@
 layout:     post
 title:      轻松赚钱，让生活更美好
 author:     Nino
-tags: 		post template
+tags: 		项目相关
 subtitle:  	项目白皮书
 header-img: "img/Money2.png"
 category:  Introduction
