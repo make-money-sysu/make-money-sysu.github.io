@@ -1,0 +1,42 @@
+---
+layout:     post
+title:      项目启动
+author:     Nino
+tags: 		post template
+subtitle:  	“挣闲钱”项目正式启动
+category:  Introduction
+---
+
+
+
+<p align="center" style="color:#444444"><strong>经过一个星期的组队和对“挣闲钱”系统的需求分析，我们最终确立了我们的队伍并制定了项目的白皮书。</strong></p>
+
+
+<p align="center" style="color:#999999"><font size="4"><strong>也就是说</strong></font></p>
+
+
+
+<p align="center" style="color:#8E0000"><strong>今天（2018.3.13），M$ Club 的“挣闲钱”项目正式启动了！！！</strong></p>
+
+
+
+
+
+
+<p align="center"><strong><font size="6">团队建设</font></strong></p>
+
+
+
+| Key | Value | Part |
+| :----: | :----: | :----: |
+| [![leungyukshing](https://avatars0.githubusercontent.com/u/29545063?s=100&v=4)](https://github.com/leungyukshing) | Leungyukshing | ![icon](https://img.icons8.com/color/64/000000/overview-pages-2.png) ![icon](https://img.icons8.com/color/64/000000/object.png) ![icon](https://img.icons8.com/color/64/000000/medium-logo.png)|
+| [![Nino](https://avatars0.githubusercontent.com/u/29083689?s=100&u=cdb9672d21820e265a063c275cfe74b312a53965&v=4)](https://github.com/LovelyBuggies) | Nino | ![icon](https://img.icons8.com/color/64/000000/overview-pages-2.png) ![icon](https://img.icons8.com/color/64/000000/object.png) ![icon](https://img.icons8.com/color/64/000000/medium-logo.png)|
+| [![ltstriker](https://avatars0.githubusercontent.com/u/31623884?s=100&v=4)](https://github.com/ltstriker) | ltstriker | ![icon](https://img.icons8.com/color/64/000000/overview-pages-2.png) ![icon](https://img.icons8.com/color/64/000000/object.png) ![icon](https://img.icons8.com/color/64/000000/medium-logo.png)|
+| [![Alva](https://avatars1.githubusercontent.com/u/26009009?s=100&v=4)](https://github.com/Alva112358) | Alva | ![icon](https://img.icons8.com/color/64/000000/overview-pages-2.png) ![icon](https://img.icons8.com/color/64/000000/object.png) ![icon](https://img.icons8.com/color/64/000000/medium-logo.png)|
+| [![Dick](https://avatars1.githubusercontent.com/u/27689630?s=100&v=4)](https://github.com/dick20) | Dick | ![icon](https://img.icons8.com/color/64/000000/overview-pages-2.png) ![icon](https://img.icons8.com/color/64/000000/object.png) ![icon](https://img.icons8.com/color/64/000000/medium-logo.png)|
+
+
+
+
+<p align="center" style="color:#000049"><i><font size="2">- - - 参考项目白皮书查看项目规划 - - -</font></i></p>
+
