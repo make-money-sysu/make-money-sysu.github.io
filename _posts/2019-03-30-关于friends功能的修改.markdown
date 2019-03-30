@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      Run Beego
-author:     52hz11
+title:      About Friends
+author:     ltstriker
 tags: 		实践心得
 subtitle:  	Beego的运行
 category:  Essay
