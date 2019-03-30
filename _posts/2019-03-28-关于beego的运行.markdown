@@ -13,20 +13,20 @@ category:  Essay
 
 然后增加包beego
 
-> go get github.com/astaxie/beego
+go get github.com/astaxie/beego
+
+反正缺的都go get 就好了。
+
+然后会说找不到routers，虽然路径上显然是可以找到的。但是他就是不行。因为这就是个[bug](<https://github.com/astaxie/beego/issues/810>)把他放在go的安装目录里面的src之中就好了。
+
+然后就是新的报错
+
+> non-standard import "github.com/astaxie/beego" in standard package
 >
-> 反正缺的都go get 就好了。
+> 贼刺激。
 >
-> 然后会说找不到routers，虽然路径上显然是可以找到的。但是他就是不行。因为这就是个[bug](<https://github.com/astaxie/beego/issues/810>)把他放在go的安装目录里面的src之中就好了。
->
-> 然后就是新的报错
->
-> > non-standard import "github.com/astaxie/beego" in standard package
-> >
-> > 贼刺激。
-> >
-> > 忽然发现他500+个问题未解决，感觉头皮发麻。
->
-> 原来是位置不对。应该是要放在项目目录之下，GOPATH下面而不是GOROOT下。再挪一下就好了。继续go get然后就能go build main.go出来一个exe，运行他就能够打开了。
->
-> （当然现在的项目还有bug而没成功，不影响我继续~
+> 忽然发现他500+个问题未解决，感觉头皮发麻。
+
+原来是位置不对。应该是要放在项目目录之下，GOPATH下面而不是GOROOT下。再挪一下就好了。继续go get然后就能go build main.go出来一个exe，运行他就能够打开了。
+
+（当然现在的项目还有bug而没成功，不影响我继续~
