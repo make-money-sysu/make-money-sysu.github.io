@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      About Friends
+title:      Friends Modification
 author:     ltstriker
 tags: 		实践心得
 subtitle:  	Friends功能的修改
