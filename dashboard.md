@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Dashborad"
-description: "Easier money, easier life!"
+title: "Dashboard"
+description: "Make $pare Money"
 header-img: "img/Money1.png"
 ---
 
