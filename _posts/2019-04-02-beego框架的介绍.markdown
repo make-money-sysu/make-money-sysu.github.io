@@ -2,7 +2,7 @@
 layout:     post
 title:      Beego框架介绍
 author:     Nino
-tags: 		知识介绍 项目前端
+tags: 		知识介绍 项目后端
 subtitle:  	
 category:  Essay
 ---
