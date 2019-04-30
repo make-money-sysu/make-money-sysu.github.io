@@ -18,6 +18,7 @@ category:  Introduction
 <img src="https://ws2.sinaimg.cn/bmiddle/006tKfTcgy1g11alobgjij318n0u0gq9.jpg" alt="ScoreChain" title="ScoreChain" length = "1400" width="500"/><br/>
 </p>
 
+
 挣闲钱系统包括是学生管理系统、任务管理系统、交易管理系统、账户管理系统等，特别合适采用面向服务的架构实现。系统的难点在于运营，即任务（业务）的发现与投放。我们的系统涉及以下一些场景：
 
 - 所有学生通过邮箱/手机登陆；学生注册的学号、姓名、年龄、性别、年级、专业等信息是真实的。学生平时使用昵称、头像在社区中活动，可以自由组成兴趣组。机构信息都是真实有效的。
