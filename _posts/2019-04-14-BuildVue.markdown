@@ -66,3 +66,6 @@ Open http://localhost:8080 on your browser, we have made our first Vue project!
 Amazing!!!  🤣
 
 I will going to tell some further tricks of Vue in the future!  😜
+
+
+
