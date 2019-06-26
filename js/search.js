@@ -9,7 +9,12 @@ jQuery(function() {
     this.field('author');
     this.field('categories');
   });
-
+/* window.idx = lunr(function () {
+    this.field('id');
+    this.field('title');
+    this.field('content', { boost: 10 });
+    this.field('author');
+    this.field('categories');*/
   // Get the generated search_data.json file so lunr.js can search it locally.
   window.data = $.getJSON('{{ site.baseurl }}/search/search_data.json');
 
@@ -21,7 +26,14 @@ jQuery(function() {
       );
     });
   });
-
+/*
+window.data.then(function(loaded_data){
+    $.each(loaded_data, function(index, value){
+      window.idx.add(
+        $.extend({ "id": index }, value)
+      );
+    });
+  }); */
   // Event when the form is submitted
   $("#site_search").submit(function(event){
       event.preventDefault(); // RTH: per Google, preventDefault() might be the culprit in Firefox
